@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Davide! 👋</h1>
 
-I'm a passionate developer from Lucerne, currently studying at **Informatikmittelschule (IMS)** with about 1.5 years of coding experience.  
+I'm a passionate developer from Lucerne, currently studying at **Informatikmittelschule (IMS)** with about 3 years of coding experience.  
 I focus on **web** and **application development**, building practical tools that solve real problems and can be shared with others who might find them useful.
 
 I mostly work with **HTML/CSS/JS** and **C#**, and I’ve recently started diving into **Python**.  
