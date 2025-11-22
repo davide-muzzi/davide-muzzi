@@ -32,6 +32,7 @@ Right now, I’m focused on sharpening my programming skills and working on a **
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-000000?style=for-the-badge&logo=windows&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white)
 
 #### 🖼️ UI & Frontend Frameworks
 
