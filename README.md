@@ -3,10 +3,11 @@
 I'm a passionate developer from Lucerne, currently studying at **Informatikmittelschule (IMS)** with about 3 years of coding experience.  
 I focus on **web** and **application development**, building practical tools that solve real problems and can be shared with others who might find them useful.
 
-I mostly work with **HTML/CSS/JS** and **C#**, and I’ve recently started diving into **Python**.  
-While I haven't stepped into mobile development just yet, I love exploring everything else from front to back.
+I’ve mainly been working with C# and Python, building desktop apps and console programs as I explore different parts of software development.
+For web projects, I use Vue.js a lot to build clean and simple interfaces.
+Lately, I’ve been getting into React Native as I learn the basics of mobile development for my current app.
 
-Right now, I’m focused on sharpening my programming skills and working on a **YouTube Media Tool** project.
+Right now, I’m focused on improving my skills in mobile app development with my current project **SideQuest**.
 
 ---
 
@@ -37,9 +38,12 @@ Right now, I’m focused on sharpening my programming skills and working on a **
 #### 🖼️ UI & Frontend Frameworks
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-6A1577?style=for-the-badge&logo=windows&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xml&logoColor=white)
 ![QSS](https://img.shields.io/badge/QSS-404D59?style=for-the-badge&logo=qt&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### 🧩 Backend
 
@@ -48,6 +52,8 @@ Right now, I’m focused on sharpening my programming skills and working on a **
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### 🧪 Version Control
 
