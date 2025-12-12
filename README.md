@@ -7,7 +7,7 @@ I’ve mainly been working with C# and Python, building desktop apps and console
 For web projects, I use Vue.js a lot to build clean and simple interfaces.
 Lately, I’ve been getting into React Native as I learn the basics of mobile development for my current app.
 
-Right now, I’m focused on improving my skills in mobile app development with my current project **SideQuest**.
+Right now, I’m focused on improving my skills in UI/UX design and mobile app development with my current project **SideQuest**.
 
 ---
 
