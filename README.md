@@ -71,7 +71,6 @@ Right now, I’m focused on improving my skills in UI/UX design and mobile app d
 
 #### 🖥️ Operating Systems
 
-![Windows Vista](https://img.shields.io/badge/Windows%20Vista-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
