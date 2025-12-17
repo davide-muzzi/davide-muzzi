@@ -69,6 +69,15 @@ Right now, I’m focused on improving my skills in UI/UX design and mobile app d
 ![SSMS](https://img.shields.io/badge/SSMS-F29D50?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+#### 🖥️ Operating Systems
+
+![Windows Vista](https://img.shields.io/badge/Windows%20Vista-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 #### 🎨 Adobe Creative Cloud
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
