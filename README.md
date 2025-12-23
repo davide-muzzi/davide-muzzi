@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Davide! 👋</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%4393FA&center=true&width=280&height=50">
+</p>
 
-I'm a passionate developer from Lucerne, currently studying at **Informatikmittelschule (IMS)** with about 3 years of coding experience.  
+Hi, I'm **Davide**! I'm a passionate developer from Lucerne, currently studying at **Informatikmittelschule (IMS)** with about 3 years of coding experience.  
 I focus on **web** and **application development**, building practical tools that solve real problems and can be shared with others who might find them useful.
 
 I’ve mainly been working with C# and Python, building desktop apps and console programs as I explore different parts of software development.
