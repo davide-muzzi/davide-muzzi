@@ -1,8 +1,11 @@
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%4393FA&center=true&width=280&height=50">
-</p>
+<div align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20I'm%20Davide&descAlign=58&descAlignY=60&section=header&animation=fadeIn&textBg=false&fontSize=40&fontAlignY=35&fontColor=FFFFFF"
+  />
+</div>
 
-Hi, I'm **Davide**! I'm a passionate developer from Lucerne, currently studying at **Informatikmittelschule (IMS)** with about 3 years of coding experience.  
+I'm a passionate developer from Lucerne, currently studying at **Informatikmittelschule (IMS)** with about 3 years of coding experience.  
 I focus on **web** and **application development**, building practical tools that solve real problems and can be shared with others who might find them useful.
 
 I’ve mainly been working with C# and Python, building desktop apps and console programs as I explore different parts of software development.
@@ -120,3 +123,10 @@ Right now, I’m focused on improving my skills in UI/UX design and mobile app d
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidemax.muzzi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-muzz%C3%AD-26aa81356/)
+
+<div align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlign=58&descAlignY=60&section=footer&textBg=false&fontSize=-2&fontAlignY=50"
+  />
+</div>
