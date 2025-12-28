@@ -110,11 +110,8 @@ Right now, I’m focused on improving my skills in UI/UX design and mobile app d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davide-muzzi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/davide-muzzi?template=classic&languages=1&languages.limit=6&languages.details=percentage&languages.threshold=2%&languages.colors=github&config.theme=dark" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=davide-muzzi&theme=radical&hide_border=true&card_height=200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davide-muzzi&theme=radical" />
 </p>
 
 ---
