@@ -5,6 +5,8 @@
   />
 </div>
 
+## About Me
+
 I'm a passionate developer from Lucerne, currently studying at **Informatikmittelschule (IMS)** with about 3 years of coding experience.  
 I focus on **web** and **application development**, building practical tools that solve real problems and can be shared with others who might find them useful.
 
@@ -14,9 +16,9 @@ Lately, I’ve been getting into React Native as I learn the basics of mobile de
 
 Right now, I’m focused on improving my skills in UI/UX design and mobile app development with my current project **SideQuest**.
 
----
+<br />
 
-### 🔧 Tech Stack
+## My Tech Stack
 
 #### 🧠 Programming Languages & Markup
 
@@ -104,19 +106,18 @@ Right now, I’m focused on improving my skills in UI/UX design and mobile app d
 ![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
 ![PowerToys](https://img.shields.io/badge/PowerToys-404040?style=for-the-badge&logo=windows&logoColor=white)
 
+<br />
 
----
-
-### 📊 GitHub Stats
+## My GitHub Stats
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=davide-muzzi&theme=radical&hide_border=true&card_height=200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davide-muzzi&theme=radical" />
 </p>
 
----
+<br />
 
-### 📫 Contact Me
+## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidemax.muzzi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-muzz%C3%AD-26aa81356/)
