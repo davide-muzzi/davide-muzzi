@@ -5,7 +5,7 @@
   />
 </div>
 
-## About Me
+## 🚀 About Me
 
 I'm a passionate developer from Lucerne, currently studying at **Informatikmittelschule (IMS)** with about 3 years of coding experience.  
 I focus on **web** and **application development**, building practical tools that solve real problems and can be shared with others who might find them useful.
@@ -18,7 +18,7 @@ Right now, I’m focused on improving my skills in UI/UX design and mobile app d
 
 <br />
 
-## My Tech Stack
+## 🔧 My Tech Stack
 
 #### 🧠 Programming Languages & Markup
 
@@ -108,7 +108,7 @@ Right now, I’m focused on improving my skills in UI/UX design and mobile app d
 
 <br />
 
-## My GitHub Stats
+## 📊 My GitHub Stats
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davide-muzzi&color=FE428E&style=for-the-badge" />
 </p>
@@ -121,7 +121,7 @@ Right now, I’m focused on improving my skills in UI/UX design and mobile app d
 
 <br />
 
-## Contact Me
+## 📫 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidemax.muzzi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-muzz%C3%AD-26aa81356/)
