@@ -109,6 +109,10 @@ Right now, I’m focused on improving my skills in UI/UX design and mobile app d
 <br />
 
 ## My GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=davide-muzzi&color=FE428E" />
+</p>
+
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=davide-muzzi&theme=radical&hide_border=true&card_height=200" />
