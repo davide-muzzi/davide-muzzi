@@ -126,6 +126,11 @@ Right now, I’m focused on improving my skills in UI/UX design and mobile app d
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davide-muzzi&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davide-muzzi&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davide-muzzi&theme=radical" />
+</p>
+
 <br />
 
 ## 📫 Contact Me
