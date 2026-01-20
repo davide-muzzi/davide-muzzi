@@ -46,6 +46,9 @@ Right now, I’m focused on improving my skills in UI/UX design and mobile app d
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-6A1577?style=for-the-badge&logo=windows&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xml&logoColor=white)
 ![QSS](https://img.shields.io/badge/QSS-404D59?style=for-the-badge&logo=qt&logoColor=white)
