@@ -80,6 +80,7 @@ Right now, I’m focused on improving my skills in UI/UX design and mobile app d
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-F29D50?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 #### 🖥️ Operating Systems
 
