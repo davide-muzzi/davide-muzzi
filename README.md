@@ -12,9 +12,8 @@ I focus on **web** and **application development**, building practical tools tha
 
 I’ve mainly been working with C# and Python, building desktop apps and console programs as I explore different parts of software development.
 For web projects, I use Vue.js a lot to build clean and simple interfaces.
-Lately, I’ve been getting into React Native as I learn the basics of mobile development for my current app.
 
-Right now, I’m focused on improving my skills in UI/UX design and mobile app development with my current project **SideQuest**.
+Right now, I'm in my final year of education, currently doing my internship, where I'm applying and expanding my skills in real-world projects.
 
 <br />
 
